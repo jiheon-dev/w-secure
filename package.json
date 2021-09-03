@@ -1,0 +1,25 @@
+{
+  "name": "w-secure",
+  "version": "1.0.0",
+  "description": "Secure API Gateway for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiheon-dev/w-secure.git"
+  },
+  "keywords": [
+    "nodejs",
+    "security",
+    "api-gateway",
+    "web-application-firewall"
+  ],
+  "author": "Jiheon Choi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jiheon-dev/w-secure/issues"
+  },
+  "homepage": "https://github.com/jiheon-dev/w-secure#readme"
+}
